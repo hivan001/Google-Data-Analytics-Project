@@ -1,7 +1,7 @@
 ## How to View This Project
 1. Read the remainder of this "README" file for a summary of the task and analysis
 2. View the SQL code used in the analysis above by clicking on the files titled "google_data_daily_activity_script.sql" and "google_data_weight_info_scriptsql.sql"
-3. View the visualization of the data by clicking on this link http://htmlpreview.github.io/Data_visualization.html
+3. View the visualization of the data by clicking on this link http://htmlpreview.github.io/file:///C:/Users/holgu/OneDrive/Documents/Google%20Data%20Cert/Portfolio%20Project/Data_visualization.html
 
 
 
