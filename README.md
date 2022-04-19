@@ -1,7 +1,7 @@
 ## How to View This Project
 1. Read the remainder of this "README" file for a summary of the task and analysis
 2. View the SQL code used in the analysis above by clicking on the files titled "google_data_daily_activity_script.sql" and "google_data_weight_info_scriptsql.sql"
-3. View the visualization of the data by clicking on this link file:///C:/Users/holgu/OneDrive/Documents/Google%20Data%20Cert/Portfolio%20Project/Data_visualization.html
+3. View the visualization of the data by navigating to the workbook stored on Tableau Public https://public.tableau.com/views/PortfolioProject-GoogleDataAnalyticsProject/ActivityIntensity?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 
@@ -36,7 +36,7 @@ Why does Bellabeat care?
 The COVID-19 pandemic has led to increase in the number of people working remotely. A side effect of working from home is an increase in the amount of time being sedentary. The data shows that there is some correlation to an increase in calories burned if less time is spent being sedentary however the correlation is not absolute. This is observed in the analysis as the users with the most amount of calories burned remained under the average amount of time being sedentary, however, there were some exceptions in the data. Belabeat can use this information to market to users who work in professions that tend to be sedentary in nature to emphasize being less sedentary and more active especially in keeping with the prior theme of weight loss. 
 
 ## Visualization
-The insights derived from this analysis were visualized using Tableau. Please click on the "Data_visualization.html" file to view an online version of the workbook. The workbook is also available on my Tableau Public page at https://public.tableau.com/app/profile/ivan.holguin6714#!/
+The insights derived from this analysis were visualized using Tableau. Please click on the link below to navigate to the visualization stored on Tableau Public. 
 
-
+https://public.tableau.com/views/PortfolioProject-GoogleDataAnalyticsProject/ActivityIntensity?:language=en-US&:display_count=n&:origin=viz_share_link
 
