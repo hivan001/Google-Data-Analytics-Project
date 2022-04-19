@@ -1,3 +1,9 @@
+## How to View This Project
+1. Read the remainder of this "README" file for a summary of the task and analysis
+2. View the SQL code used in the analysis above by clicking on the files titled "google_data_daily_activity_script.sql" and "google_data_weight_info_scriptsql.sql"
+3. View the visualization of the data by clicking on the file titled "Data_visualization.html".
+
+
 # Bellabeat Data Analytics Project
 
 ## An evaluation of FitBit data to produce useful marketing insights of calorie loss in participants
@@ -10,7 +16,7 @@ There are a variety of companies that offer products to consumers that give them
 An immediate limitation that was observed of the provided data is that only 8 participants logged any weight information from the weight_info dataset in comparison to the 33 participants in the daily_activity dataset. 
 
 ## The Analysis
-Two datasets were analyzed utilizing Google's Big Query. The datasets analyzed were the daily_activity dataset and the weight_info dataset. The code utilized to perform the analysis can be found in the repository above titled =="google_data_daily_activity_script.sql"== and =="google_data_weight_info_scriptsql.sql"==
+Two datasets were analyzed utilizing Google's Big Query. The datasets analyzed were the daily_activity dataset and the weight_info dataset. The code utilized to perform the analysis can be found in the repository above titled "google_data_daily_activity_script.sql" and "google_data_weight_info_scriptsql.sql"
 
 ## Insights
 What trends did I discover?
