@@ -1,10 +1,12 @@
-# Google-Data-Analytics-Project
-An evaluation of FitBit data to produce useful marketing insights of calorie loss in participants
----
 title: "Bellabeat Case Study"
 author: "Ivan Holguin"
 date: '2022-04-13'
 output: html_document
+
+
+# Google-Data-Analytics-Project
+
+## An evaluation of FitBit data to produce useful marketing insights of calorie loss in participants
 
 ## The Task
 
@@ -15,18 +17,17 @@ An immediate limitation that was observed of the provided data is that only 8 pa
 
 ## Insights
 What trends did I discover?
-The main insight discovered is that a balance of being very active, fairly active and lightly active led to the most calories being burned.
 
-Most users showed a larger percentage of active minutes being in the lightly active category which includes the users that burned the most calories. 
-
-Therefore, it can be inferred that it is not necessary to be primarily in the very active category for calorie loss to be effective. 
+Insight #1 - A balance of being very active, fairly active and lightly active led to the most calories being burned. Most users showed a larger percentage of active minutes being in the lightly active category which includes the users that burned the most calories. Therefore, it can be inferred that it is not necessary to be primarily in the very active category for calorie loss to be effective. 
 
 Why does Belabeat Care?
+
 With the summer season approaching soon, many users of fitness devices will have goals to attempt to lose weight prior to vacations and visits to the beach etc. Belabeat can focus its marketing strategies on calorie loss and the effectiveness of utilizing consistent light physical activity to burn calories. This insight may appeal to more users as light physical activity may be less daunting in comparison to high intensity training such as high intensity interval training. The effectiveness of light physical activity may also appeal to individuals that are newer to fitness and exercise. 
 
-Less time being sedentary does provide some correlation to more calories burned but it is not an absolute indicator.
+Insight #2 - Less time being sedentary does provide some correlation to more calories burned but it is not an absolute indicator.
 
 Why does Belabeat care?
+
 The COVID-19 pandemic has led to increase in the number of people working remotely. A side effect of working from home is an increase in the amount of time being sedentary. The data shows that there is some correlation to an increase in calories burned if less time is spent being sedentary however the correlation is not absolute. This is observed in the analysis as the users with the most amount of calories burned remained under the average amount of time being sedentary, however, there were some exceptions in the data. Belabeat can use this information to market to users who work in professions that tend to be sedentary in nature to emphasize being less sedentary and more active especially in keeping with the prior theme of weight loss. 
 
 
