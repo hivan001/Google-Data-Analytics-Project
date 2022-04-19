@@ -27,6 +27,8 @@ Why does Belabeat care?
 
 The COVID-19 pandemic has led to increase in the number of people working remotely. A side effect of working from home is an increase in the amount of time being sedentary. The data shows that there is some correlation to an increase in calories burned if less time is spent being sedentary however the correlation is not absolute. This is observed in the analysis as the users with the most amount of calories burned remained under the average amount of time being sedentary, however, there were some exceptions in the data. Belabeat can use this information to market to users who work in professions that tend to be sedentary in nature to emphasize being less sedentary and more active especially in keeping with the prior theme of weight loss. 
 
+## Visualization
+The insights derived from this analysis were visualized using Tableau. Please click on the "Data_visualization.html" file to view an online version of the workbook. The workbook is also available on my Tableau Public page at https://public.tableau.com/app/profile/ivan.holguin6714#!/
 
 
 
