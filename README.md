@@ -1,10 +1,4 @@
-title: "Bellabeat Case Study"
-author: "Ivan Holguin"
-date: '2022-04-13'
-output: html_document
-
-
-# Google-Data-Analytics-Project
+# Google Data Analytics Project
 
 ## An evaluation of FitBit data to produce useful marketing insights of calorie loss in participants
 
@@ -12,8 +6,11 @@ output: html_document
 
 There are a variety of companies that offer products to consumers that give them real time data on various aspects of their health. With so much availability of health and fitness data to the everyday consumer, there is likely to be trends in what are the most important uses of smart devices. Bellabeat key stakeholders are seeking to use data regarding the current usage of smart devices across the health and fitness industry to determine what data points and uses are most important to consumers.  Lastly, the insights derived from the data across the industry and within Bellabeat will then be used to recommend how these trends can be utilized to tailor the marketing strategy.
 
-### Cleaning the Data
+## Cleaning the Data
 An immediate limitation that was observed of the provided data is that only 8 participants logged any weight information from the weight_info dataset in comparison to the 33 participants in the daily_activity dataset. 
+
+## The Analysis
+Two datasets were analyzed utilizing Google's Big Query. The datasets analyzed were the daily_activity dataset and the weight_info dataset. The code utilized to perform the analysis can be found in the repository above titled "google_data_daily_activity_script.sql" and "google_data_weight_info_scriptsql.sql"
 
 ## Insights
 What trends did I discover?
