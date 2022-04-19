@@ -4,6 +4,8 @@
 3. View the visualization of the data by clicking on the file titled "Data_visualization.html".
 
 
+
+
 # Bellabeat Data Analytics Project
 
 ## An evaluation of FitBit data to produce useful marketing insights of calorie loss in participants
